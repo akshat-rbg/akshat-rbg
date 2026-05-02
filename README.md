@@ -1,64 +1,310 @@
-<div align="center">                                                                                                                                                                                            
-   
-  <a href="https://github.com/akshat-rbg">                                                                                                                                                                        
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Akshat+Rana+%F0%9F%91%8B;Senior+Software+Engineer
-  +%E2%80%A2+Full+Stack;React+%E2%80%A2+Node+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Python;AgriTech+%E2%80%A2+AI+Products+%E2%80%A2+Gov+Platforms;Open+to+SDE-1+%2F+SE+roles+%F0%9F%91%80" alt="typing"/>   
-  </a>
-                                                                                                                                                                                                                  
-  <p>                                                                                                                                                                                                             
-    <a href="https://linkedin.com/in/akshat-rana-8060a325b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:akshatrana262@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>                                                              
-    <a href="https://github.com/OpenAgriNet"><img src="https://img.shields.io/badge/OpenAgriNet-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                       
-    <a href="https://github.com/Kenpath"><img src="https://img.shields.io/badge/Kenpath-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                               
-    <img src="https://komarev.com/ghpvc/?username=akshat-rbg&style=flat-square&color=blueviolet&label=Views"/>                                                                                                    
-  </p>                                                                                                                                                                                                            
-                                                                                                                                                                                                                  
-  </div>                                                                                                                                                                                                          
-                                                                                                                                                                                                                  
-  ### About                                                 
+<div align="center">
 
-  - Senior SWE building **OpenAgriNet** — national & state-level agri platforms used at scale                                                                                                                     
-  - 3+ years across **React · Node · Angular · Spring · Python · AI tooling**
-  - Shipped products in **AgriTech, Government, Smart Cities, Accessibility**                                                                                                                                     
-  - Currently sharpening: **system design · distributed systems · LLM platforms**                                                                                                                                 
-                                                                                                                                                                                                                  
-  ### Stack                                                                                                                                                                                                       
-                                                                                                                                                                                                                  
-  <p>                                                       
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,nextjs,typescript,javascript,python,java,spring,redis,postgres,mongodb,docker,kubernetes,gcp,azure,firebase,nginx,git,linux&perline=10"/>
-  </p>                                                                                                                                                                                                            
-   
-  ### Featured work                                                                                                                                                                                               
-                                                            
-  | Project | What it does | Stack |
-  | :-- | :-- | :-- |
-  | **[BharatVISTAAR](https://github.com/OpenAgriNet)** | National AI agri-advisory — voice + chat in 11 Indian languages via Bhashini, Beckn-protocol API discovery, OpenAI guardrails | React · Python · OpenAI 
-  · Beckn · GCP |                                                                                                                                                                                                 
-  | **MahaVISTAAR** | Maharashtra OpenAgriNet — weather, mandi prices, scheme info, installment tracking for farmers | React · Python · Bhashini · GPU infra |                                                    
-  | **[Wadhwani FPO Platform](https://github.com/OpenAgriNet)** | Farmer Producer Org platform — registration, training, scheme access, microlearning | React · Node · MongoDB · Azure AKS · Keycloak |           
-  | **Blimey — Enable India** | Accessibility-first learning platform for visually impaired — JAWS/NVDA compatible, **61k+ users · 16 countries** | .NET · C# · PostgreSQL |                                      
-  | **Emergency Response (Trinity)** | Led HLD/LLD + delivery of ERS module with real-time event flows | Angular · Spring Boot · Kafka · MS SQL |                                                                 
-  | **Safe City (Trinity)** | Smart-city surveillance with live tracking + Google Maps | Angular · Spring Boot · Kafka |                                                                                          
-                                                                                                                                                                                                                  
-  ### Live GitHub                                                                                                                                                                                                 
-                                                                                                                                                                                                                  
-  <p align="center">                                        
-    <img src="https://github-readme-stats.vercel.app/api?username=akshat-rbg&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=420" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-rbg&theme=tokyonight&hide_border=true&card_width=420" height="165"/>                                                                  
-  </p>                                                                                                                                                                                                            
-                                                                                                                                                                                                                  
-  <p align="center">                                                                                                                                                                                              
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-rbg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420" height="165"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=akshat-rbg&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=6&margin-h=6" height="165"/>                                        
-  </p>                                                                                                                                                                                                            
-                                                                                                                                                                                                                  
-  <p align="center">                                                                                                                                                                                              
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-rbg&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%"/>
-  </p>                                                                                                                                                                                                            
-   
-  ### Get in touch                                                                                                                                                                                                
-                                                            
-  <p>                                                                                                                                                                                                             
-    <a href="https://linkedin.com/in/akshat-rana-8060a325b"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:akshatrana262@gmail.com"><img src="https://img.shields.io/badge/Drop%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>                                                  
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Rana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AgriTech%20%7C%20AI%20Products&descAlignY=58&descSize=15" width="100%"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/akshat-rana-8060a325b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="mailto:akshatrana262@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="https://github.com/OpenAgriNet">
+  <img src="https://img.shields.io/badge/OpenAgriNet-24292F?style=flat-square&logo=github&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="https://github.com/OpenAgriNet">
+  <img src="https://img.shields.io/badge/Kenpath-24292F?style=flat-square&logo=github&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=akshat-rbg&style=flat&color=6e40c9&label=Profile+Views" height="28"/>
+<br/>
+<div align="center">
+
+`Senior Software Engineer · Full Stack · DevOps · Product Builder`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,angular,python,docker,kubernetes,gcp,azure&theme=dark&perline=8"/>
+
+</div>
+
+</div>
+
+---
+
+### $ tech --list --all
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+### `$ git log --all --stat`
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-rbg&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshat-rbg&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatrana02&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshat-rbg&theme=tokyonight&utcOffset=5.5" width="24%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-rbg&count_private=true&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" width="24%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-line-counter.vercel.app/akshat-rbg?category=lines&theme=sunset" width="49%" alt="Lines of Code" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat-rbg&theme=tokyonight" width="49%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-rbg&theme=tokyo-night&hide_border=true&height=220" width="100%"/>
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshat-rbg&theme=tokyonight&row=1&margin-w=15&no-bg=true" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+---
+
+### `$ ls -la ./projects`
+*(Live status straight from GitHub)*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌾 [BharatVISTAAR — OpenAgriNet](https://github.com/OpenAgriNet/bharat-oan-api)
+National-level AI agricultural advisory platform
+
+![Stars](https://img.shields.io/github/stars/OpenAgriNet/bharat-oan-api?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/OpenAgriNet/bharat-oan-api?style=flat-square&color=8b949e)
+![Language](https://img.shields.io/github/languages/top/OpenAgriNet/bharat-oan-api?style=flat-square&color=38bdae)
+![Last Commit](https://img.shields.io/github/last-commit/OpenAgriNet/bharat-oan-api?style=flat-square&color=bf91f3)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌾 [MahaVISTAAR — OpenAgriNet](https://github.com/OpenAgriNet/mh-oan-api)
+Maharashtra OpenAgriNet platform
+
+![Stars](https://img.shields.io/github/stars/OpenAgriNet/mh-oan-api?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/OpenAgriNet/mh-oan-api?style=flat-square&color=8b949e)
+![Language](https://img.shields.io/github/languages/top/OpenAgriNet/mh-oan-api?style=flat-square&color=38bdae)
+![Last Commit](https://img.shields.io/github/last-commit/OpenAgriNet/mh-oan-api?style=flat-square&color=bf91f3)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💰 [Bills Management App](https://github.com/akshat-rbg/bills-management-app)
+Bill tracking & management application
+
+![Stars](https://img.shields.io/github/stars/akshat-rbg/bills-management-app?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/akshat-rbg/bills-management-app?style=flat-square&color=8b949e)
+![Language](https://img.shields.io/github/languages/top/akshat-rbg/bills-management-app?style=flat-square&color=38bdae)
+![Last Commit](https://img.shields.io/github/last-commit/akshat-rbg/bills-management-app?style=flat-square&color=bf91f3)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌀 [Portal IO](https://github.com/akshat-rbg/portal-io)
+Portal management system
+
+![Stars](https://img.shields.io/github/stars/akshat-rbg/portal-io?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/akshat-rbg/portal-io?style=flat-square&color=8b949e)
+![Language](https://img.shields.io/github/languages/top/akshat-rbg/portal-io?style=flat-square&color=38bdae)
+![Last Commit](https://img.shields.io/github/last-commit/akshat-rbg/portal-io?style=flat-square&color=bf91f3)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `📍 skill map`
+
+```mermaid
+mindmap
+  root((My Brain))
+    Frontend
+      React
+      Angular
+      JavaScript
+      TypeScript
+    Backend
+      Node.js
+      Python
+      Spring Boot
+      .NET
+      GraphQL
+      REST API
+    Cloud & Infra
+      Docker
+      Kubernetes
+      Azure
+      GCP
+      Kafka
+    Databases
+      PostgreSQL
+      MongoDB
+      Redis
+      MySQL
+```
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+### 🤝 Open Source
+
+<div align="center">
+
+[![OpenAgriNet](https://img.shields.io/badge/OpenAgriNet-Active%20Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenAgriNet)
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
