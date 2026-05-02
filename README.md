@@ -246,67 +246,7 @@ Portal management system
 </td>
 </tr>
 </table>
-
----
-
-### `📍 skill map`
-
-```mermaid
-mindmap
-  root((My Brain))
-    Frontend
-      React
-      Angular
-      JavaScript
-      TypeScript
-    Backend
-      Node.js
-      Python
-      Spring Boot
-      .NET
-      GraphQL
-      REST API
-    Cloud & Infra
-      Docker
-      Kubernetes
-      Azure
-      GCP
-      Kafka
-    Databases
-      PostgreSQL
-      MongoDB
-      Redis
-      MySQL
-```
----
-
-<!-- <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://ghchart.rshah.org/1D9E75/akshat-rbg" width="100%" alt="Akshat's GitHub chart"/>
-</div> -->
-### `$ git log --oneline --graph`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake · akshat-rbg" width="100%" src="https://raw.githubusercontent.com/akshat-rbg/akshat-rbg/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
-
-<div align="center">
-  <sub>Jan &nbsp;·&nbsp; Feb &nbsp;·&nbsp; Mar &nbsp;·&nbsp; Apr &nbsp;·&nbsp; May &nbsp;·&nbsp; Jun &nbsp;·&nbsp; Jul &nbsp;·&nbsp; Aug &nbsp;·&nbsp; Sep &nbsp;·&nbsp; Oct &nbsp;·&nbsp; Nov &nbsp;·&nbsp; Dec</sub>
-</div>
 ---
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
