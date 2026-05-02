@@ -293,16 +293,6 @@ mindmap
 </div>
 
 ---
-
-### 🤝 Open Source
-
-<div align="center">
-
-[![OpenAgriNet](https://img.shields.io/badge/OpenAgriNet-Active%20Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenAgriNet)
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
